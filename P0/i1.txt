@@ -1,0 +1,5 @@
+4
+linux-ubuntu /images/linux-ubuntu-v1.1.img
+linux-sles /images/new-image.img
+linux-ubuntu-16 /images/linux-ubuntu-16.img
+linux-ubuntu-32 /images/linux-ubuntu-32.img
